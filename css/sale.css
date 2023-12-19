@@ -1,0 +1,108 @@
+.dasale{
+    width: 2000px;
+    height: 200px;
+    background-color: black;
+}
+
+.text{
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 80px;
+    position: absolute;
+    margin-left: 850px;
+    font-size: 50px;
+}
+
+.img1{
+    margin-top: 35px;
+}
+
+.img2{
+    margin-top: -537px;
+    position: absolute;
+    margin-left: 460px;
+}
+
+.img3{
+    margin-top: -537px;
+    position: absolute;
+    margin-left: 930px;
+}
+
+.img4{
+    margin-top: -537px;
+    position: absolute;
+    margin-left: 1400px;
+}
+
+.img5{
+    margin-top: 50px;
+}
+
+
+
+.rr1{
+    font-size: 20px;
+}
+
+.pp1{
+    font-size: 20px;
+    margin-top: -65px;
+    margin-left: 360px;
+}
+
+
+.rr2{
+    margin-left: 460px;
+    margin-top: -70px;
+    position: absolute;
+    font-size: 20px;
+}
+
+.pp2{
+    font-size: 20px;
+    margin-top: -65px;
+    margin-left: 830px;
+    position: absolute;
+}
+
+.rr3{
+    margin-left: 940px;
+    margin-top: -70px;
+    position: absolute;
+    font-size: 20px;
+}
+
+.pp3{
+    font-size: 20px;
+    margin-top: -60px;
+    margin-left: 1300px;
+    position: absolute;
+}
+
+.rr4{
+    margin-left: 1400px;
+    margin-top: -70px;
+    position: absolute;
+    font-size: 20px;
+}
+
+.pp4{
+    font-size: 20px;
+    margin-top: -65px;
+    margin-left: 1775px;
+    position: absolute;
+}
+
+.rr5{
+    font-size: 20px;
+}
+
+.pp5{
+    font-size: 20px;
+    position: absolute;
+    margin-top: -65px;
+    margin-left: 370px;
+}
